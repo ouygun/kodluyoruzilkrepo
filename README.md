@@ -1,3 +1,6 @@
+Patika Profil Linki
+`https://app.patika.dev/ouygun`
+
 ![Proje Resmi](https://github.com/ouygun/kodluyoruzilkrepo/blob/main/github.jpg?raw=true)
 
 # Kodluyoruz Ilk Repo
